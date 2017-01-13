@@ -1,0 +1,20 @@
+{
+	"ImportPath": "github.com/joaquinicolas/FormAndroidMigrator",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v75",
+	"Packages": [
+		"./"
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/lib/pq",
+			"Comment": "go1.0-cutoff-141-g8df6253",
+			"Rev": "8df6253d1317616f36b0c3740eb30c239a7372cb"
+		},
+		{
+			"ImportPath": "github.com/lib/pq/oid",
+			"Comment": "go1.0-cutoff-141-g8df6253",
+			"Rev": "8df6253d1317616f36b0c3740eb30c239a7372cb"
+		}
+	]
+}
